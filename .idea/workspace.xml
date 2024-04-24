@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6f3f5ad-6753-423a-8402-4eedcde1cd42" name="Changes" comment="문제 2775 - 부녀회장이 될테야&#10;- https://www.acmicpc.net/problem/2775">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/io/junhyeon47/baekjoon/Q2775.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/io/junhyeon47/baekjoon/Q2775Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/io/junhyeon47/baekjoon/Q2775.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/io/junhyeon47/baekjoon/Q2775.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/io/junhyeon47/baekjoon/Q2775Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/io/junhyeon47/baekjoon/Q2775Test.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +54,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -169,8 +159,33 @@
       <option name="presentableId" value="Default" />
       <updated>1713883482578</updated>
       <workItem from="1713883483667" duration="1817000" />
-      <workItem from="1713960417624" duration="1126000" />
+      <workItem from="1713960417624" duration="1641000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1713961672926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713961672926</updated>
+    </task>
+    <task id="LOCAL-00002" summary="문제 2775 - 부녀회장이 될테야&#10;- https://www.acmicpc.net/problem/2775">
+      <option name="closed" value="true" />
+      <created>1713961678216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713961678216</updated>
+    </task>
+    <task id="LOCAL-00003" summary="문제 2775 - 부녀회장이 될테야&#10;- https://www.acmicpc.net/problem/2775">
+      <option name="closed" value="true" />
+      <created>1713961752511</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713961752511</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +203,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
     <MESSAGE value="문제 2775 - 부녀회장이 될테야&#10;- https://www.acmicpc.net/problem/2775" />
     <option name="LAST_COMMIT_MESSAGE" value="문제 2775 - 부녀회장이 될테야&#10;- https://www.acmicpc.net/problem/2775" />
   </component>
